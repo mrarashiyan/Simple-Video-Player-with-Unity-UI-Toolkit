@@ -5,7 +5,7 @@
         <ui:VisualElement name="Overlay" class="Overlay" style="position: absolute; left: 0; top: 0; width: 100%; height: 100%;" />
     </ui:VisualElement>
     <ui:VisualElement name="PlayerContainer" class="PlayerContainer" style="transition-property: opacity; transition-duration: 0.2s; transition-timing-function: ease-in-sine; transition-delay: 0s;">
-        <ui:VisualElement name="VideoOutput" class="VideoOutput" style="background-image: url(&apos;project://database/Assets/_Project/Sprites/DummyPreview.jpg?fileID=2800000&amp;guid=91dbdbe315799a2429f189347682797b&amp;type=3#DummyPreview&apos;); -unity-background-scale-mode: stretch-to-fill;">
+        <ui:VisualElement name="VideoOutput" class="VideoOutput">
             <ui:VisualElement name="Header" class="Header" style="height: 13%; align-items: center; align-self: center;">
                 <ui:VisualElement name="NavGroup" class="NavGroup">
                     <ui:Button text="&#10;" parse-escape-sequences="true" display-tooltip-when-elided="true" name="OpenFileBtn" class="SquareButton" style="background-image: url(&apos;project://database/Assets/_Project/Sprites/Icon_OpenVideo.png?fileID=21300000&amp;guid=cb65769a0b58d21429b7b6263de7e33c&amp;type=3#Icon_OpenVideo&apos;); -unity-slice-left: 0; -unity-slice-top: 0; -unity-slice-right: 0; -unity-slice-bottom: 0; -unity-background-scale-mode: scale-to-fit; -unity-background-image-tint-color: rgb(255, 255, 255); background-color: rgba(255, 255, 255, 0); width: 35px;" />
