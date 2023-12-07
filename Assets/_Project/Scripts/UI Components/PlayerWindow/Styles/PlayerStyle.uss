@@ -158,6 +158,17 @@
     font-size: 11px;
 }
 
+.SubtitleBtn .unity-toggle__input:checked {
+    -unity-background-image-tint-color: rgba(255, 255, 255, 0.2);
+    -unity-background-scale-mode: scale-to-fit;
+    -unity-slice-left: 0;
+    -unity-slice-top: 0;
+    -unity-slice-right: 0;
+    -unity-slice-bottom: 0;
+    background-color: rgba(0, 0, 0, 0);
+    background-image: url('project://database/Assets/_Project/Sprites/Icon_Circle.png?fileID=2800000&guid=b5aa71f6dfd6397498f899a80add9c35&type=3#Icon_Circle');
+}
+
 .SubtitleBtn #unity-checkmark {
     background-color: rgba(0, 0, 0, 0);
     border-width: 0;
@@ -169,17 +180,6 @@
     margin-left: 3px;
     margin-bottom: -3px;
     -unity-background-image-tint-color: rgb(255, 255, 255);
-}
-
-.SubtitleBtn .unity-toggle__input:checked {
-    -unity-background-image-tint-color: rgba(255, 255, 255, 0.2);
-    -unity-background-scale-mode: scale-to-fit;
-    -unity-slice-left: 0;
-    -unity-slice-top: 0;
-    -unity-slice-right: 0;
-    -unity-slice-bottom: 0;
-    background-color: rgba(0, 0, 0, 0);
-    background-image: url('project://database/Assets/_Project/Sprites/Icon_Circle.png?fileID=2800000&guid=b5aa71f6dfd6397498f899a80add9c35&type=3#Icon_Circle');
 }
 
 .MyDropdown {
