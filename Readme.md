@@ -10,19 +10,25 @@ I made this project for Training and Learning new UI system. In this project you
 2- **Fully Functional** Video Controllers part; including **Time Seek, Play/Pause Button, Volume Controll. Caption Activator, Full Screen Mode**
 
 3- Use different structure for **Selectors**
+
 ![enter image description here](https://raw.githubusercontent.com/mrarashiyan/Simple-Video-Player-with-Unity-UI-Toolkit/main/ScreenShots/2.png)
 
 4- **Transition Animation** with USS and C#
+
 ![enter image description here](https://raw.githubusercontent.com/mrarashiyan/Simple-Video-Player-with-Unity-UI-Toolkit/main/ScreenShots/Transtition.gif)
 
 5- Used different type of **Customize Controllers**; including Label, Button, Toggle, Slider, and Dropdown
+
 ![enter image description here](https://raw.githubusercontent.com/mrarashiyan/Simple-Video-Player-with-Unity-UI-Toolkit/main/ScreenShots/3.png)
 
 6- Fully **Responsive** Design for any Screen Size!
+
 ![enter image description here](https://raw.githubusercontent.com/mrarashiyan/Simple-Video-Player-with-Unity-UI-Toolkit/main/ScreenShots/7.png)
 
 7- **Reuseable Code Structure** for other UI Toolkit projects
+
 ![enter image description here](https://raw.githubusercontent.com/mrarashiyan/Simple-Video-Player-with-Unity-UI-Toolkit/main/ScreenShots/5.png)
+
 ## How To Use
 
 1- Clone the project and import it to the Unity. My version is 2022.3.13 LTS, but you can use any other version.
