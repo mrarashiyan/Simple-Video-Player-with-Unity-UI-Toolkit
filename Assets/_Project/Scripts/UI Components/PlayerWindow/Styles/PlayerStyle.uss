@@ -185,7 +185,7 @@
 .MyDropdown {
 }
 
-.VideoOutput--Up {
+.PlayerContainer > .VideoOutput--Up {
     translate: 0 -163px;
     opacity: 0;
     transition-duration: 0.5s, 0.5s;
