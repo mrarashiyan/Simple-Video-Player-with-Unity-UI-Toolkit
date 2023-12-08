@@ -100,18 +100,6 @@
     min-height: 30px;
 }
 
-.PlayerContainer > .VideoOutput > .Footer {
-    flex-grow: 1;
-    height: 15%;
-    background-color: rgba(255, 255, 255, 0);
-    bottom: 0;
-    position: absolute;
-    width: 100%;
-    flex-direction: row;
-    padding-right: 5%;
-    padding-left: 5%;
-}
-
 .Timeline {
     height: 100%;
     width: 40%;
@@ -156,6 +144,18 @@
     height: 24px;
     padding: 5px 0 5px 0;
     font-size: 11px;
+}
+
+.PlayerContainer > .VideoOutput > .Footer {
+    flex-grow: 1;
+    height: 15%;
+    background-color: rgba(255, 255, 255, 0);
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+    flex-direction: row;
+    padding-right: 5%;
+    padding-left: 5%;
 }
 
 .SubtitleBtn .unity-toggle__input:checked {
